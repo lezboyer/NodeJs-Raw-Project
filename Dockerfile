@@ -8,3 +8,5 @@ COPY package-lock.json .
 
 RUN npm install
 
+CMD [ "npm", "start"]
+
