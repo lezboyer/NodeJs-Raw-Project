@@ -2,7 +2,7 @@ function createNodejsImage() {
     const imageUrl = '/images/nodejs-logo.png';
     const imgElement = document.createElement('img');
     imgElement.src = imageUrl;
-    imgElement.alt = 'Node.js logo';
+    imgElement.alt = 'Node.js logo ';
     return imgElement;
 }
 
